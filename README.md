@@ -1,10 +1,3 @@
-# Code Examples 2019
-
-Code examples supporting the 
-+ Software Design and Programming, and 
-+ Software and Programming III 
-
-modules at Birkbeck.
 
 ## Source code from *Core Java SE 9 for the Impatient*
 
