@@ -1,0 +1,4 @@
+mediator here used in a sort of chain of responsibility type fashion:
+
+- once each component has completed its first task, it then passes over command to the next component
+- this is why certain components require mediator as a constructor parameter -> they use the mediator method to initiate the next task

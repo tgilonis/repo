@@ -1,0 +1,10 @@
+Chain - Complete.
+Command - Complete.
+Interpreter - Complete but double check if output in final answer
+Iterator - Complete but Shape[] initialization needs to be reviewed
+Memento - Complete.
+Observer - Complete.
+State - Complete.
+Strategy - Complete.
+Template - Complete.
+Visitor - Complete but needs comments taken out

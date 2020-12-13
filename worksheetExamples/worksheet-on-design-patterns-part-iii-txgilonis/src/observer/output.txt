@@ -1,0 +1,27 @@
+Subscribing Adam Warner [Manchester] to Football Match [2019MAR24] ...
+Subscribed successfully.
+
+Subscribing Tim Ronney [London] to Football Match [2019MAR24] ...
+Subscribed successfully.
+
+[Adam Warner [Manchester]]: Welcome to live football match
+[Tim Ronney [London]]: Welcome to live football match
+
+[Adam Warner [Manchester]]: Current score 0-0
+[Tim Ronney [London]]: Current score 0-0
+
+Unsubscribing Tim Ronney [London] to football Match [2019MAR24] ...
+Unsubscribed successfully.
+
+[Adam Warner [Manchester]]: It's a goal!!
+
+[Adam Warner [Manchester]]: Current score 1-0
+
+Subscribing Marrie [Paris] to football Match [2019MAR24] ...
+Subscribed successfully.
+
+[Adam Warner [Manchester]]: It's another goal!!
+[Marrie [Paris]]: It's another goal!!
+
+[Adam Warner [Manchester]]: Half-time score 2-0
+[Marrie [Paris]]: Half-time score 2-0

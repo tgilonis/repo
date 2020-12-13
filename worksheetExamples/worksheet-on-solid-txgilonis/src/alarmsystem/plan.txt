@@ -1,0 +1,23 @@
+We want to test that an alarm is raised, and also implement different alarm notification methods.
+(For example: automatically call the fire department, call the owner’s phone, and trigger the control unit alarm siren.)
+Plan how you can extract the announcement logic and:
+
+a). Trigger many different announcement strategies.
+b). Test that the different strategies was triggered.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+Currently SecurityControlUnit extends NormalControlUnit (a concrete class). This needs to be changed:
+
+- Create an abstract NormalControlUnit class that implements ControlUnit
+- SecurityControlUnit will extend this abstract class, thus removing dependency inversion violation
+
+Control Unit Triggers need to be specified:
+
+- Create a file that can be read to find phone numbers specific to the emergency
+
+Many factories being used:
+
+- Create abstract factories to instantiate factory classes
+
