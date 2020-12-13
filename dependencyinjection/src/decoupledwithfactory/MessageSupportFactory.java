@@ -1,4 +1,4 @@
-package dependencyinjection.src.decoupledwithfactory;
+package decoupledwithfactory;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;

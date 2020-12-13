@@ -1,4 +1,4 @@
-package dependencyinjection.src.decoupledwithfactory;
+package decoupledwithfactory;
 
 public class HelloWorldDecoupledWithFactory {
 

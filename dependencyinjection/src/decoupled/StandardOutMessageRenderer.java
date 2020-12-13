@@ -1,4 +1,4 @@
-package dependencyinjection.src.decoupled;
+package decoupled;
 
 public class StandardOutMessageRenderer {
 

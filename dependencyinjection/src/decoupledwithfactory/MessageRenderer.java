@@ -1,4 +1,4 @@
-package dependencyinjection.src.decoupledwithfactory;
+package decoupledwithfactory;
 
 public interface MessageRenderer {
   void render();

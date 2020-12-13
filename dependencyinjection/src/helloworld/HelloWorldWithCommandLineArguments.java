@@ -1,4 +1,4 @@
-package dependencyinjection.src.helloworld;
+package helloworld;
 
 public class HelloWorldWithCommandLineArguments {
 

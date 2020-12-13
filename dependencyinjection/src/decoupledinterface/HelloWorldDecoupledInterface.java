@@ -1,4 +1,4 @@
-package dependencyinjection.src.decoupledinterface;
+package decoupledinterface;
 
 public class HelloWorldDecoupledInterface {
 
